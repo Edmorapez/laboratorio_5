@@ -160,7 +160,7 @@ namespace Pruebas
         {
             MailMessage _correo = new MailMessage();
             
-            _correo.From = new MailAddress("edmorapez@gmail.com");
+            _correo.From = new MailAddress("XXXXX@gmail.com");
             _correo.To.Add(Email);
             _correo.Subject = "hola";
             _correo.Body = "este es el cuerpo prueba saludos";
