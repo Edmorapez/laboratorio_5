@@ -1,0 +1,570 @@
+﻿Active Window - file:///C:/Users/Edgar1/Desktop/uv_3/seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 749,  y= 337, delta = 0
+MouseButton - None
+x = 746,  y= 336, delta = 0
+MouseButton - None
+x = 743,  y= 333, delta = 0
+MouseButton - None
+x = 741,  y= 331, delta = 0
+MouseButton - None
+x = 721,  y= 310, delta = 0
+MouseButton - None
+x = 575,  y= 232, delta = 0
+MouseButton - None
+x = 490,  y= 206, delta = 0
+MouseButton - None
+x = 452,  y= 193, delta = 0
+MouseButton - None
+x = 391,  y= 176, delta = 0
+MouseButton - None
+x = 371,  y= 171, delta = 0
+MouseButton - None
+x = 354,  y= 167, delta = 0
+MouseButton - None
+x = 339,  y= 163, delta = 0
+MouseButton - None
+x = 320,  y= 156, delta = 0
+MouseButton - None
+x = 314,  y= 153, delta = 0
+MouseButton - None
+x = 306,  y= 149, delta = 0
+MouseButton - None
+x = 302,  y= 147, delta = 0
+MouseButton - None
+x = 298,  y= 146, delta = 0
+MouseButton - None
+x = 295,  y= 144, delta = 0
+MouseButton - None
+x = 277,  y= 141, delta = 0
+MouseButton - None
+x = 269,  y= 141, delta = 0
+MouseButton - None
+x = 260,  y= 141, delta = 0
+MouseButton - None
+x = 252,  y= 144, delta = 0
+MouseButton - None
+x = 246,  y= 146, delta = 0
+MouseButton - None
+x = 243,  y= 148, delta = 0
+MouseButton - None
+x = 240,  y= 149, delta = 0
+MouseButton - None
+x = 235,  y= 153, delta = 0
+MouseButton - None
+x = 232,  y= 156, delta = 0
+MouseButton - None
+x = 230,  y= 158, delta = 0
+MouseButton - None
+x = 226,  y= 161, delta = 0
+MouseButton - None
+x = 226,  y= 162, delta = 0
+MouseButton - None
+x = 225,  y= 163, delta = 0
+MouseButton - None
+x = 224,  y= 165, delta = 0
+MouseButton - None
+x = 223,  y= 165, delta = 0
+MouseButton - None
+x = 222,  y= 165, delta = 0
+MouseButton - None
+x = 221,  y= 166, delta = 0
+MouseButton - None
+x = 177,  y= 133, delta = 0
+MouseButton - Left
+x = 177,  y= 133, delta = 0
+MouseButton - None
+KeyDown - D4
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}17713352
+KeyPress 	- 4
+KeyUp - D4
+KeyDown - D0
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}17713348
+KeyPress 	- 0
+KeyUp - D0
+KeyDown - D0
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}17713348
+KeyPress 	- 0
+KeyUp - D0
+KeyDown - D0
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}17713348
+KeyPress 	- 0
+KeyUp - D0
+KeyDown - Tab
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}1771339
+KeyPress 	- 	
+KeyUp - Tab
+KeyDown - LControlKey
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}177133162
+KeyDown - V
+x = 177,  y= 133, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}17713386
+KeyPress 	- 
+KeyUp - V
+KeyUp - LControlKey
+x = 221,  y= 167, delta = 0
+MouseButton - None
+x = 221,  y= 168, delta = 0
+MouseButton - None
+x = 221,  y= 170, delta = 0
+MouseButton - None
+x = 221,  y= 173, delta = 0
+MouseButton - None
+x = 219,  y= 180, delta = 0
+MouseButton - None
+x = 218,  y= 187, delta = 0
+MouseButton - None
+x = 218,  y= 188, delta = 0
+MouseButton - None
+x = 217,  y= 195, delta = 0
+MouseButton - None
+x = 217,  y= 196, delta = 0
+MouseButton - None
+x = 217,  y= 198, delta = 0
+MouseButton - None
+x = 216,  y= 200, delta = 0
+MouseButton - None
+x = 216,  y= 201, delta = 0
+MouseButton - None
+x = 216,  y= 203, delta = 0
+MouseButton - None
+x = 215,  y= 206, delta = 0
+MouseButton - None
+x = 215,  y= 208, delta = 0
+MouseButton - None
+x = 215,  y= 211, delta = 0
+MouseButton - None
+x = 214,  y= 214, delta = 0
+MouseButton - None
+x = 214,  y= 216, delta = 0
+MouseButton - None
+x = 214,  y= 222, delta = 0
+MouseButton - None
+x = 214,  y= 223, delta = 0
+MouseButton - None
+x = 214,  y= 227, delta = 0
+MouseButton - None
+x = 214,  y= 229, delta = 0
+MouseButton - None
+x = 214,  y= 232, delta = 0
+MouseButton - None
+x = 214,  y= 233, delta = 0
+MouseButton - None
+x = 214,  y= 236, delta = 0
+MouseButton - None
+x = 214,  y= 242, delta = 0
+MouseButton - None
+x = 214,  y= 245, delta = 0
+MouseButton - None
+x = 214,  y= 247, delta = 0
+MouseButton - None
+x = 214,  y= 249, delta = 0
+MouseButton - None
+x = 214,  y= 251, delta = 0
+MouseButton - None
+x = 215,  y= 254, delta = 0
+MouseButton - None
+x = 216,  y= 256, delta = 0
+MouseButton - None
+x = 216,  y= 257, delta = 0
+MouseButton - None
+x = 217,  y= 259, delta = 0
+MouseButton - None
+x = 218,  y= 263, delta = 0
+MouseButton - None
+x = 219,  y= 266, delta = 0
+MouseButton - None
+x = 220,  y= 269, delta = 0
+MouseButton - None
+x = 221,  y= 276, delta = 0
+MouseButton - None
+x = 222,  y= 280, delta = 0
+MouseButton - None
+x = 222,  y= 283, delta = 0
+MouseButton - None
+x = 223,  y= 286, delta = 0
+MouseButton - None
+x = 223,  y= 291, delta = 0
+MouseButton - None
+x = 223,  y= 294, delta = 0
+MouseButton - None
+x = 224,  y= 296, delta = 0
+MouseButton - None
+x = 224,  y= 299, delta = 0
+MouseButton - None
+x = 225,  y= 301, delta = 0
+MouseButton - None
+x = 225,  y= 303, delta = 0
+MouseButton - None
+x = 226,  y= 305, delta = 0
+MouseButton - None
+x = 226,  y= 307, delta = 0
+MouseButton - None
+x = 227,  y= 310, delta = 0
+MouseButton - None
+x = 228,  y= 312, delta = 0
+MouseButton - None
+x = 228,  y= 314, delta = 0
+MouseButton - None
+x = 229,  y= 317, delta = 0
+MouseButton - None
+x = 229,  y= 319, delta = 0
+MouseButton - None
+x = 230,  y= 322, delta = 0
+MouseButton - None
+x = 230,  y= 324, delta = 0
+MouseButton - None
+x = 230,  y= 326, delta = 0
+MouseButton - None
+x = 230,  y= 327, delta = 0
+MouseButton - None
+x = 230,  y= 328, delta = 0
+MouseButton - None
+x = 230,  y= 329, delta = 0
+MouseButton - None
+x = 230,  y= 330, delta = 0
+MouseButton - None
+x = 230,  y= 330, delta = 0
+MouseButton - None
+x = 230,  y= 330, delta = 0
+MouseButton - None
+x = 230,  y= 331, delta = 0
+MouseButton - None
+x = 230,  y= 332, delta = 0
+MouseButton - None
+x = 230,  y= 332, delta = 0
+MouseButton - None
+x = 230,  y= 333, delta = 0
+MouseButton - None
+x = 184,  y= 266, delta = 0
+MouseButton - Left
+x = 184,  y= 266, delta = 0
+MouseButton - None
+x = 233,  y= 332, delta = 0
+MouseButton - None
+x = 346,  y= 229, delta = 0
+MouseButton - None
+x = 486,  y= 129, delta = 0
+MouseButton - None
+x = 546,  y= 93, delta = 0
+MouseButton - None
+x = 584,  y= 78, delta = 0
+MouseButton - None
+x = 605,  y= 72, delta = 0
+MouseButton - None
+x = 617,  y= 69, delta = 0
+MouseButton - None
+x = 636,  y= 65, delta = 0
+MouseButton - None
+x = 644,  y= 64, delta = 0
+MouseButton - None
+x = 650,  y= 64, delta = 0
+MouseButton - None
+x = 652,  y= 64, delta = 0
+MouseButton - None
+x = 656,  y= 64, delta = 0
+MouseButton - None
+x = 658,  y= 64, delta = 0
+MouseButton - None
+x = 658,  y= 64, delta = 0
+MouseButton - None
+x = 660,  y= 64, delta = 0
+MouseButton - None
+x = 660,  y= 64, delta = 0
+MouseButton - None
+x = 663,  y= 64, delta = 0
+MouseButton - None
+x = 666,  y= 64, delta = 0
+MouseButton - None
+x = 673,  y= 64, delta = 0
+MouseButton - None
+x = 690,  y= 62, delta = 0
+MouseButton - None
+x = 702,  y= 62, delta = 0
+MouseButton - None
+x = 710,  y= 61, delta = 0
+MouseButton - None
+x = 720,  y= 59, delta = 0
+MouseButton - None
+x = 728,  y= 57, delta = 0
+MouseButton - None
+x = 731,  y= 57, delta = 0
+MouseButton - None
+x = 733,  y= 57, delta = 0
+MouseButton - None
+x = 733,  y= 56, delta = 0
+MouseButton - None
+x = 734,  y= 56, delta = 0
+MouseButton - None
+x = 735,  y= 56, delta = 0
+MouseButton - None
+x = 736,  y= 54, delta = 0
+MouseButton - None
+x = 736,  y= 53, delta = 0
+MouseButton - None
+x = 589,  y= 42, delta = 0
+MouseButton - Left
+x = 589,  y= 42, delta = 0
+MouseButton - None
+Active Window - file:///C:/Users/Edgar1/Desktop/uv_3/seguridad/Lab5 - RemoteManager/Lab5 - RemoteManager/Pruebas/bin/Debug/Pruebas.EXE
+
+x = 589,  y= 80, delta = 0
+MouseButton - None
+x = 575,  y= 97, delta = 0
+MouseButton - None
+x = 556,  y= 130, delta = 0
+MouseButton - None
+x = 529,  y= 180, delta = 0
+MouseButton - None
+x = 498,  y= 227, delta = 0
+MouseButton - None
+x = 474,  y= 270, delta = 0
+MouseButton - None
+x = 469,  y= 279, delta = 0
+MouseButton - None
+x = 461,  y= 294, delta = 0
+MouseButton - None
+x = 457,  y= 304, delta = 0
+MouseButton - None
+x = 453,  y= 314, delta = 0
+MouseButton - None
+x = 448,  y= 327, delta = 0
+MouseButton - None
+x = 446,  y= 332, delta = 0
+MouseButton - None
+x = 446,  y= 333, delta = 0
+MouseButton - None
+x = 446,  y= 334, delta = 0
+MouseButton - None
+x = 446,  y= 336, delta = 0
+MouseButton - None
+x = 445,  y= 336, delta = 0
+MouseButton - None
+x = 445,  y= 338, delta = 0
+MouseButton - None
+x = 444,  y= 344, delta = 0
+MouseButton - None
+x = 443,  y= 347, delta = 0
+MouseButton - None
+x = 443,  y= 350, delta = 0
+MouseButton - None
+x = 442,  y= 351, delta = 0
+MouseButton - None
+x = 442,  y= 353, delta = 0
+MouseButton - None
+x = 442,  y= 353, delta = 0
+MouseButton - None
+x = 441,  y= 353, delta = 0
+MouseButton - None
+x = 441,  y= 345, delta = 0
+MouseButton - None
+x = 442,  y= 323, delta = 0
+MouseButton - None
+x = 444,  y= 312, delta = 0
+MouseButton - None
+x = 445,  y= 308, delta = 0
+MouseButton - None
+x = 447,  y= 302, delta = 0
+MouseButton - None
+x = 448,  y= 301, delta = 0
+MouseButton - None
+x = 448,  y= 300, delta = 0
+MouseButton - None
+x = 448,  y= 300, delta = 0
+MouseButton - None
+x = 448,  y= 300, delta = 0
+MouseButton - None
+x = 448,  y= 305, delta = 0
+MouseButton - None
+x = 448,  y= 306, delta = 0
+MouseButton - None
+x = 448,  y= 307, delta = 0
+MouseButton - None
+x = 445,  y= 311, delta = 0
+MouseButton - None
+x = 444,  y= 313, delta = 0
+MouseButton - None
+x = 442,  y= 315, delta = 0
+MouseButton - None
+x = 440,  y= 317, delta = 0
+MouseButton - None
+x = 438,  y= 320, delta = 0
+MouseButton - None
+x = 437,  y= 322, delta = 0
+MouseButton - None
+x = 436,  y= 323, delta = 0
+MouseButton - None
+x = 435,  y= 325, delta = 0
+MouseButton - None
+x = 433,  y= 326, delta = 0
+MouseButton - None
+x = 432,  y= 330, delta = 0
+MouseButton - None
+x = 430,  y= 331, delta = 0
+MouseButton - None
+x = 428,  y= 334, delta = 0
+MouseButton - None
+x = 428,  y= 336, delta = 0
+MouseButton - None
+x = 427,  y= 336, delta = 0
+MouseButton - None
+x = 427,  y= 336, delta = 0
+MouseButton - None
+x = 425,  y= 339, delta = 0
+MouseButton - None
+x = 424,  y= 341, delta = 0
+MouseButton - None
+x = 424,  y= 343, delta = 0
+MouseButton - None
+x = 423,  y= 345, delta = 0
+MouseButton - None
+x = 423,  y= 345, delta = 0
+MouseButton - None
+x = 422,  y= 347, delta = 0
+MouseButton - None
+x = 421,  y= 348, delta = 0
+MouseButton - None
+x = 421,  y= 349, delta = 0
+MouseButton - None
+x = 421,  y= 351, delta = 0
+MouseButton - None
+x = 421,  y= 351, delta = 0
+MouseButton - None
+x = 421,  y= 353, delta = 0
+MouseButton - None
+x = 421,  y= 354, delta = 0
+MouseButton - None
+x = 421,  y= 355, delta = 0
+MouseButton - None
+x = 421,  y= 356, delta = 0
+MouseButton - None
+x = 420,  y= 356, delta = 0
+MouseButton - None
+x = 420,  y= 358, delta = 0
+MouseButton - None
+x = 420,  y= 361, delta = 0
+MouseButton - None
+x = 420,  y= 362, delta = 0
+MouseButton - None
+x = 415,  y= 369, delta = 0
+MouseButton - None
+x = 332,  y= 295, delta = 0
+MouseButton - Left
+x = 332,  y= 295, delta = 0
+MouseButton - None
+KeyDown - D4
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}33229552
+KeyPress 	- 4
+KeyUp - D4
+KeyDown - D0
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}33229548
+KeyPress 	- 0
+KeyUp - D0
+KeyDown - D0
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}33229548
+KeyPress 	- 0
+KeyUp - D0
+KeyDown - D0
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}33229548
+KeyPress 	- 0
+KeyUp - D0
+KeyDown - Tab
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}3322959
+KeyPress 	- 	
+KeyUp - Tab
+KeyDown - LControlKey
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}332295162
+KeyDown - V
+x = 332,  y= 295, delta = 0
+MouseButton - None
+x={0}, y={1}, Key = {2}33229586
+KeyPress 	- 
+KeyUp - V
+KeyUp - LControlKey
+x = 415,  y= 370, delta = 0
+MouseButton - None
+x = 414,  y= 385, delta = 0
+MouseButton - None
+x = 414,  y= 396, delta = 0
+MouseButton - None
+x = 414,  y= 408, delta = 0
+MouseButton - None
+x = 414,  y= 414, delta = 0
+MouseButton - None
+x = 415,  y= 418, delta = 0
+MouseButton - None
+x = 415,  y= 421, delta = 0
+MouseButton - None
+x = 417,  y= 429, delta = 0
+MouseButton - None
+x = 417,  y= 431, delta = 0
+MouseButton - None
+x = 418,  y= 434, delta = 0
+MouseButton - None
+x = 421,  y= 442, delta = 0
+MouseButton - None
+x = 424,  y= 449, delta = 0
+MouseButton - None
+x = 425,  y= 455, delta = 0
+MouseButton - None
+x = 428,  y= 469, delta = 0
+MouseButton - None
+x = 431,  y= 483, delta = 0
+MouseButton - None
+x = 432,  y= 494, delta = 0
+MouseButton - None
+x = 433,  y= 501, delta = 0
+MouseButton - None
+x = 434,  y= 509, delta = 0
+MouseButton - None
+x = 434,  y= 512, delta = 0
+MouseButton - None
+x = 435,  y= 518, delta = 0
+MouseButton - None
+x = 435,  y= 520, delta = 0
+MouseButton - None
+x = 435,  y= 522, delta = 0
+MouseButton - None
+x = 435,  y= 523, delta = 0
+MouseButton - None
+x = 435,  y= 523, delta = 0
+MouseButton - None
+x = 435,  y= 524, delta = 0
+MouseButton - None
+x = 435,  y= 524, delta = 0
+MouseButton - None
+x = 435,  y= 525, delta = 0
+MouseButton - None
+x = 435,  y= 525, delta = 0
+MouseButton - None
+x = 435,  y= 526, delta = 0
+MouseButton - None
+x = 348,  y= 421, delta = 0
+MouseButton - Left
+x = 348,  y= 421, delta = 0
+MouseButton - None
