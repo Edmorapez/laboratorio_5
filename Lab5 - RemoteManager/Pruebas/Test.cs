@@ -170,7 +170,7 @@ namespace Pruebas
             
             SmtpClient smtp = new SmtpClient();
 
-            smtp.Credentials = new NetworkCredential("edmorapez@gmail.com", "panasonic2112");
+            smtp.Credentials = new NetworkCredential("XXXX@gmail.com", "PASSWW");
             smtp.Host = "smtp.gmail.com";
             smtp.Port = 587;
             smtp.EnableSsl = true;
